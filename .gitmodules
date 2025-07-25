@@ -1,0 +1,6 @@
+[submodule "arithint-rs"]
+	path = arithint-rs
+	url = https://github.com/massimopavoni/arithint-rs
+[submodule "tiny-three-pass-compiler"]
+	path = tiny-three-pass-compiler
+	url = https://github.com/massimopavoni/tiny-three-pass-compiler
